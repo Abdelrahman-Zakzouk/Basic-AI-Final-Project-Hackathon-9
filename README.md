@@ -26,6 +26,8 @@ The data was split 80% training and 20% testing (random\_state 42). Features wer
 
 ## Evaluation
 
+![description](https://github.com/user-attachments/assets/0965f28f-897d-41dc-8ef3-1ffdac51b894)
+
 | Metric | Value |
 | --- | --- |
 | R-squared | 0.87 |
@@ -73,6 +75,9 @@ The strongest links to satisfaction were class, in-flight entertainment and onli
 The data was split 80% training and 20% testing (random\_state 42), and a logistic regression model was trained on the scaled training data.
 
 ## Evaluation
+
+![description](https://github.com/user-attachments/assets/14669657-7dfc-435d-b43a-876a6486e505)
+
 
 | Metric | Value |
 | --- | --- |
